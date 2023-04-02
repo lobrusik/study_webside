@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<link rel="style" href="style.css">
+<title>Infa + Matma</title>
+</head>
+<body>
+<h1 style="text-align:center;">Siemanko!</h1>
+<p style="font-size:120%;text-align:center;">Witam na mojej stronie internetowej. Stronie, gdzie znajdziesz pomoc w nauce informatyki i matematyki. 
+Staram się wszystko wyjaśnić w prosty i logiczny sposób. Mam nadzieję, że moje kursy i materiały przydadzą Ci się 
+i zainteresujesz się tematem. </p>
+<p style="font-size:90%;text-align:center;">Łucja Obrusik, twórczyni strony</p>
+<img src="Na tło stronki.jpg" width="1500" height="800" alt="tło stronki">
+
+<hr>
+<blockquote cite="https://www.instagram.com/p/CeWjbKwIMto/">
+Jeśli umiemy się zmotywować do nauki to jest już połowa sukcesu, żeby się czegoś nauczyć. 
+Jeśli nam się nie będzie chciało uczyć to kiepsko, bo wtedy się niczego nie nauczymy.
+</blockquote>
+<hr>
+
+<p>Zajrzyj na moje media społecznościowe!</p>
+<a href="https://www.instagram.com/informatywkaa/">Zajrzyj na mojego instagrama!</a><br>
+<a href="https://pin.it/4VR311i">Zajrzyj na mojego pinteresta!</a>
+
+<hr> <!-- <p>To nie chce działać idk dlaczego</p> -->
+<address>
+Written by Łucja Obrusik.<br>
+lobrusik@gmail.com
+</address>
+</body>
+</html>
